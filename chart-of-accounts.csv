@@ -1,0 +1,52 @@
+Account Number,Account Name,Type,Detail Type
+1000,Operating Checking,Bank,Checking
+1010,Security Deposit Account,Bank,Savings
+1020,Reserve Savings,Bank,Savings
+1200,Accounts Receivable,Accounts receivable (A/R),Accounts Receivable (A/R)
+1300,Mortgage Escrow,Other Current Assets,Other Current Assets
+1310,Flip Properties - Work in Progress,Other Current Assets,Other Current Assets
+1320,Earnest Money Deposits,Other Current Assets,Other Current Assets
+1330,Prepaid Expenses,Other Current Assets,Prepaid Expenses
+1500,Land,Fixed Assets,Land
+1510,Buildings,Fixed Assets,Buildings
+1520,Building Improvements,Fixed Assets,Other fixed assets
+1530,Furniture & Appliances,Fixed Assets,Furniture & Fixtures
+1590,Accumulated Depreciation,Fixed Assets,Accumulated Depreciation
+1600,Loan Costs,Other Assets,Other Long-term Assets
+1690,Accumulated Amortization - Loan Costs,Other Assets,Accumulated Amortization of Other Assets
+2000,Accounts Payable,Accounts payable (A/P),Accounts Payable (A/P)
+2100,Business Credit Card,Credit Card,Credit Card
+2200,Tenant Security Deposits Held,Other Current Liabilities,Other Current Liabilities
+2210,Prepaid Rent,Other Current Liabilities,Other Current Liabilities
+2300,Hard Money Loans,Other Current Liabilities,Loan Payable
+2500,Mortgages Payable,Long Term Liabilities,Notes Payable
+3000,Owner Contributions,Equity,Partner Contributions
+3010,Owner Distributions,Equity,Partner Distributions
+4000,Rental Income,Income,Other Primary Income
+4010,Short-Term Rental Income,Income,Other Primary Income
+4020,Late Fees,Income,Other Primary Income
+4030,Other Tenant Income,Income,Other Primary Income
+4100,Property Sales,Income,Sales of Product Income
+5000,Cost of Property Sold,Cost of Goods Sold,Other Costs of Services - COS
+5010,Selling Costs,Cost of Goods Sold,Other Costs of Services - COS
+6000,Advertising,Expenses,Advertising/Promotional
+6010,Auto & Travel,Expenses,Auto
+6020,Cleaning & Maintenance,Expenses,Repair & Maintenance
+6030,Commissions,Expenses,Commissions & fees
+6040,Insurance,Expenses,Insurance
+6050,Legal & Professional Fees,Expenses,Legal & Professional Fees
+6060,Management Fees,Expenses,Other Business Expenses
+6070,Mortgage Interest,Expenses,Interest Paid
+6080,Other Interest,Expenses,Interest Paid
+6090,Repairs,Expenses,Repair & Maintenance
+6100,Supplies,Expenses,Supplies & Materials
+6110,Property Taxes,Expenses,Taxes Paid
+6120,Utilities,Expenses,Utilities
+6130,HOA Dues,Expenses,Dues & subscriptions
+6140,Software & Subscriptions,Expenses,Dues & subscriptions
+6150,Bank Charges,Expenses,Bank Charges
+6160,Licenses & Permits,Expenses,Taxes Paid
+7000,Interest Income,Other Income,Interest Earned
+7010,Gain or Loss on Sale of Property,Other Income,Other Miscellaneous Income
+8000,Depreciation Expense,Other Expense,Depreciation
+8010,Amortization Expense,Other Expense,Amortization
